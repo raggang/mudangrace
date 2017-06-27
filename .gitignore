@@ -1,0 +1,10 @@
+# Eclipse Settings Files
+########################
+
+*.settings
+*.prefs
+.classpath
+.project
+cache.properties
+cache.properties.lock
+
