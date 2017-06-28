@@ -10,4 +10,4 @@ cache.properties.lock
 target/
 test-output/
 *.class
-
+class
