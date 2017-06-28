@@ -7,4 +7,7 @@
 .project
 cache.properties
 cache.properties.lock
+target/
+test-output/
+*.class
 
